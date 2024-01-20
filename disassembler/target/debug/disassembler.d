@@ -1,1 +1,1 @@
-/home/alex/chip8/disassembler/target/debug/disassembler: /home/alex/chip8/disassembler/src/main.rs
+/home/alex/rchip8/disassembler/target/debug/disassembler: /home/alex/rchip8/disassembler/src/main.rs
